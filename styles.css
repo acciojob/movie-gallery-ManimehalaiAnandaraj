@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+.container-fluid{
+	display:flex;
+		flex-direction:column;
+	justify-content:space-around;
+	padding:10px;
+	margin:auto;
+	flex-wrap:wrap;
+}
+.col-sm-1{
+	height:100px;
+	width:100px;
+	display:flex;
+}
+.col-sm-2{
+	height:100px;
+	width:100px;
+	display:flex;
+}
+.col-sm-3{
+	height:100px;
+	width:100px;
+	display:flex;
+}
+.col-sm-4{
+	height:100px;
+	width:100px;
+	display:flex;
+}
